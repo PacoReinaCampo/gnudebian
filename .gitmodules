@@ -1,0 +1,6 @@
+[submodule "gnuhurd"]
+	path = gnuhurd
+	url = https://github.com/PacoReinaCampo/gnuhurd.git
+[submodule "gnumach"]
+	path = gnumach
+	url = https://github.com/PacoReinaCampo/gnumach.git
