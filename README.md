@@ -1,6 +1,6 @@
 # gnudebian
 ## QueenField
 
-![QueenField](../master/icon.jpg)
+![QueenField](../master/debian.svg)
 
 **Distribution System for RTOS**

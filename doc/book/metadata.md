@@ -1,6 +1,6 @@
 ---
 title: 'MPSoC-RTOS'
-subtitle: 'QueenField ![](../../debian.svg){width=17cm}'
+subtitle: 'QueenField ![](../../icon.jpg)'
 
 author: Paco Reina Campo
 
