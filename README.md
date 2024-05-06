@@ -1,6 +1,6 @@
 # gnudebian
 ## QueenField
 
-![QueenField](../master/debian.svg)
+![QueenField](../main/debian.svg)
 
 **Distribution System for RTOS**
